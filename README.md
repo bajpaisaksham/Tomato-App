@@ -1,6 +1,4 @@
-:
-
-🍅 Tomato App
+#🍅 Tomato App
 Tomato is a food delivery application that offers seamless food ordering, advanced filtering, real-time order tracking, and a secure payment process. The application consists of three main components: the Backend API, the Frontend Application, and the Admin Panel.
 📺 Demo Links
 Backend API: Tomato Backend
