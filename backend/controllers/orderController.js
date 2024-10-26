@@ -8,7 +8,7 @@ const stripe = new Stripe("sk_test_51PxlPWP8SjrhIvowI5bC085ByEao0JgP4hzNmWfZ4tGh
 // placing user order for frontend
 const placeOrder = async (req,res) =>{
 
-  const frontend_url = "http://localhost:5173";
+  const frontend_url = "https://tomato-app-frontend-atum.onrender.com";
 
   try {
     const newOrder = new orderModel({
